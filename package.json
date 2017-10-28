@@ -1,0 +1,11 @@
+{
+  "name": "simple-blockchain-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Yofri/simple-blockhain-js.git",
+  "author": "Yofriadi Yahya <yofriadiyahya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
